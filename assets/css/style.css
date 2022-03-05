@@ -11,5 +11,5 @@ font-weight: 500;
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: auto !important;
 }
