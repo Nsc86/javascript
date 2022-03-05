@@ -1,0 +1,15 @@
+.textfont400{
+font-family: Montserrat,sans-serif;
+font-weight: 400;
+}
+
+
+
+.textfont500{
+font-family: Montserrat,sans-serif;
+font-weight: 500;
+}
+
+html {
+  scroll-behavior: smooth;
+}
